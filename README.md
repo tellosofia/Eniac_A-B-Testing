@@ -1,4 +1,4 @@
-# Project Overview: Enhancing Eniac's Purchase Funnel
+# Case Study: Enhancing Eniac's Purchase Funnel
 
 ## Background
 Eniac aims to optimize its customer journey for purchasing the iPhone 13, focusing on increasing conversions through their website. The main path includes clicking the "SHOP NOW" button on the homepage banner and following a series of steps to complete the purchase.
